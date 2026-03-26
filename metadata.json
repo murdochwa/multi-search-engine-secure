@@ -1,0 +1,7 @@
+{
+  "name": "multi-search-engine-secure",
+  "version": "2.0.1-secure",
+  "description": "Security-hardened multi search engine skill with bounded extraction and safe query policy.",
+  "engines": 17,
+  "requires_api_key": false
+}
